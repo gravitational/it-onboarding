@@ -1,4 +1,4 @@
-## Welcome to Company!
+## Welcome to Teleport!
 
 ### Getting Started
 Make sure you have a computer and mobile device before going through this set up.
@@ -41,7 +41,9 @@ Touch the fingerprint reader or press the button on your security key and then c
 
 ### Sign into your work email on the Gmail app
 ```
-
+Download the Gmail app from your device's App Store if you do not already have it.
+Sign in using your Teleport email address. It should go to an Okta page for you to complete the sign in.
+After this is set up, you can also download Google Calendar from the App Store and your account should already be signed in.
 ```
 
 ### Sign into Slack on your mobile device
