@@ -43,10 +43,12 @@ Touch the fingerprint reader or press the button on your security key and then c
 ```
 Download the Gmail app from your device's App Store if you do not already have it.
 Sign in using your Teleport email address. It should go to an Okta page for you to complete the sign in.
-After this is set up, you can also download Google Calendar from the App Store and your account should already be signed in.
+After this is set up, you can also download Google Calendar and Google Drive from the App Store and your account should already be signed in.
 ```
 
 ### Sign into Slack on your mobile device
 ```
-
+Download the Slack app from your device's App Store if you do not already have it.
+The Slack web address is: gravitational.slack.com.
+Follow the Okta sign in process to authenticate.
 ```
